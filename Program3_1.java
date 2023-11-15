@@ -1,4 +1,5 @@
-/*1>Write a program which accept number from user and display its multiplication of factors 
+/*
+1.Write a program which accept number from user and display its multiplication of factors 
  Input : 12 (1*2*6*24)
  Output :144
 
