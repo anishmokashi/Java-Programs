@@ -21,8 +21,8 @@ public class Program4_5 {
         Scanner sc=new Scanner(System.in);
        
         System.out.println("Please enter total marks and scored marks");
-        float ino1=sc.nextInt();
-        float ino2=sc.nextInt();
+        float ino1=sc.nextFloat();
+        float ino2=sc.nextFloat();
        
         float iret=Percentage(ino1,ino2);
         System.out.println(iret+"%");
